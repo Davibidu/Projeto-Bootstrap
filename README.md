@@ -1,6 +1,6 @@
 # Projeto Bootstrap
 
-![preview](./preview.png)
+![preview](/preview)
 
 > Web Site
 
