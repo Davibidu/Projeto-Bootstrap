@@ -6,7 +6,7 @@
 
 Projeto construido com conceitos de Bootstrap.  
 
-[ 🔗 Clique aqui para acessar](https://Davibidu.github.io/Projeto-bootstrap
+[ 🔗 Clique aqui para acessar](https://Davibidu.github.io/Projeto-bootstrap)
 
 ## 🛠 Tecnologias 
 - HTML
